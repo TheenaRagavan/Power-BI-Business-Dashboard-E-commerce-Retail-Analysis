@@ -1,12 +1,12 @@
 📝 Project Description:
 
-This project involves analyzing the performance of ShopNest, a leading e-commerce department store, using Power BI. The goal was to transform raw sales, customer, and order data into meaningful business insights through interactive dashboards. The project provides a holistic view of operational efficiency, customer preferences, and sales trends to support data-driven decision-making.
+This project involves analyzing the performance of a leading e-commerce department store, using Power BI. The goal was to transform raw sales, customer, and order data into meaningful business insights through interactive dashboards. The project provides a holistic view of operational efficiency, customer preferences, and sales trends to support data-driven decision-making.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✨ Key Highlights:
 
-Designed a dynamic Power BI Dashboard using 9 interlinked datasets from the ShopNest store.
+Designed a dynamic Power BI Dashboard using 9 interlinked datasets from the retail store.
 
 Built interactive visuals to monitor sales, delivery performance, product ratings, and seasonal trends.
 
